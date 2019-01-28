@@ -20,4 +20,4 @@ example:
 
 Leap Years will repeat Feb 28th's readings on Feb 29.
 
-I've used the readings from [ESV.org](https://www.esv.org)'s reading plans.
+Inspired by [ESV.org](https://www.esv.org)'s reading plans.
