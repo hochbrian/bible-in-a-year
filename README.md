@@ -17,3 +17,5 @@ example:
   }
 }
 ```
+
+Leapyears will repeat Feb 28th's readings on Feb 29.
